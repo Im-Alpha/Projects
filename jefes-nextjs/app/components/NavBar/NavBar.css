@@ -1,0 +1,18 @@
+.nav_background {
+  z-index: -1;
+  filter: brightness(0.17);
+  /* align-items: baseline; */
+}
+.logo {
+  margin: 0 auto;
+  align-items: center;
+}
+
+.active {
+
+  position: fixed;
+  width: 100%;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}

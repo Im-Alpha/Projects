@@ -1,0 +1,7 @@
+.jefes_background{
+    z-index: -1;
+    filter: brightness(.19);
+}
+.par{
+    text-wrap: pretty;
+}

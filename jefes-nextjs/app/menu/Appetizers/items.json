@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Guacamole Dip",
+        "photo": "Appetizers/jalapenosDeReboso.jpeg",
+        "price_large": 7,
+        "price_small": 5,
+        "spicy": "no",
+        "favorite": "yes",
+        "description": "avocado dripppppp"
+    },
+    {
+        "id": 2,
+        "name": "CHILES TOREADOS",
+        "photo": "Appetizers/jalapenosDeReboso.jpeg",
+        "price": 5,
+        "spicy": "yes",
+        "description": "3 fresh grilled jalepeño peppers topped with caramelized onions, Pico de Gallo, and lime wedges."
+    },
+    {
+        "id": 3,
+        "name": "QUESO DIP",
+        "photo": "Appetizers/jalapenosDeReboso.jpeg",
+        "price_large": 8,
+        "price_small": 6,
+        "spicy": "yes",
+        "description": "That cheeeeeeeeeeeeese mannnnnnn"
+    },
+    {
+        "id": 4,
+        "name": "SAMPLER PLATTER",
+        "photo": "Appetizers/jalapenosDeReboso.jpeg",
+        "price": 13,
+        "spicy": "no",
+        "description": "1 cheese quesadilla, 2 crispy flautas beef/chicken, 2 crunchy tacos beef/chicken and cheesy tacos. Served with a side of salsa, pico de gallo, and queso."
+    }
+]

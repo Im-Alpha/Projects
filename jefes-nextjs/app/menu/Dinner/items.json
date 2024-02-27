@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Camarones Fundidos",
+    "photo": "Dinner/camaronesFundidos.jpeg",
+    "price": 14,
+    "size": "32oz",
+    "spicy": "no",
+    "favorite": "no",
+    "description": "A drink."
+  },
+  {
+    "id": 2,
+    "name": "Chile Colorado",
+    "photo": "Dinner/chileColorado.jpeg",
+    "price": 35,
+    "size": "100oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "A tower full of Corona."
+  },
+  {
+    "id": 3,
+    "name": "Crab and Shrimp Salad",
+    "photo": "Dinner/crabAndShrimpSalad.jpeg",
+    "price": 18,
+    "size": "36oz",
+    "spicy": "no",
+    "favorite": "yes",
+    "description": "El Chambong."
+  },
+  {
+    "id": 4,
+    "name": "Fajitas",
+    "photo": "Dinner/fajitas.jpeg",
+    "price": 20,
+    "size": "56oz",
+    "spicy": "yes",
+    "favorite": "yes",
+    "description": "The special margarita."
+  },
+  {
+    "id": 5,
+    "name": "Grilled Chicken and Bacon Quesadilla",
+    "photo": "Dinner/grilledChickenBaconQuesadilla.jpeg",
+    "price": 13,
+    "size": "24oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "Corona with tamarindo."
+  },
+  {
+    "id": 6,
+    "name": "Jefes bowl",
+    "photo": "Dinner/jefesBowl.jpeg",
+    "price": 13,
+    "size": "24oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 7,
+    "name": "Las Enchiladas",
+    "photo": "Dinner/lasEnchiladas.jpeg",
+    "price": 13,
+    "size": "24oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 8,
+    "name": "Molcajete",
+    "photo": "Dinner/molcajete.jpeg",
+    "price": 13,
+    "size": "24oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 9,
+    "name": "Street Tacos",
+    "photo": "Dinner/streetTacos.jpeg",
+    "price": 13,
+    "size": "24oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 10,
+    "name": "Torta",
+    "photo": "Dinner/torta.jpeg",
+    "price": 13,
+    "size": "24oz",
+    "spicy": "yes",
+    "favorite": "no",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
